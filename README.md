@@ -15,6 +15,12 @@ Para isso, utilizando a fonte do IBGE, desenvolvi uma dashboard em Power BI que 
 - Rebanho por região;
 - Mapeamento de quantidades por estado.
 
+<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/2c6549ea-047c-4402-ba42-db5540db5011" />
+
+<img width="1302" height="737" alt="image" src="https://github.com/user-attachments/assets/633fe5ed-d0d4-4df4-8807-e5e5b9bf1a9d" />
+
+
+
 ## Impacto
 Com esta dashboard o cliente verifica o desenvolvimento dos rebanhos nas regiões do Brasil e identifica locais de possíveis investimentos.
 
