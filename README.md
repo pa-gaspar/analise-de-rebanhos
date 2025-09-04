@@ -3,7 +3,7 @@
 Antes de investir em um mercado, é necessário ter o entendimento do melhor local e do comportamento de dados para definir corretamente o investimento. 
 
 ## Problema
-Um investidor interessado serviços para produção animal, querendo entrar no meio agropecuário brasileiro queria ter uma visão geral do povoamento de rebanhos no Brasil.
+Um investidor interessado na área de serviços para produção animal, querendo entrar no meio agropecuário brasileiro queria ter uma visão geral do povoamento de rebanhos no Brasil.
 
 ## Solução
 Para isso, utilizando a fonte do IBGE, desenvolvi uma dashboard em Power BI que analisa 48 anos de dados sobre rebanhos,  permite o usuário explorar dados de quantidade de rebanhos e visualizar os dados por ângulos específicos, como:
